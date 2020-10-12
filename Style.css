@@ -1,0 +1,45 @@
+body{
+    background-color:rgb(212, 205, 205);
+}
+#main
+{
+    height: auto;
+    width: 100%;
+    
+}
+#title
+{
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+#img-div
+{
+    background-color: honeydew;
+    display: flex;
+    flex-direction: column;
+}
+#image
+{
+    height: 60vh;
+    width: 80vh;
+    align-self: center;
+    padding-top: 2vh;
+}
+#img-caption
+{
+    align-self: center;
+}
+#tribute-info
+{
+    margin-left: 30vh;
+}
+#tribute-info ul li{
+    margin: 5vh;
+}
+#last b
+{
+    margin-left: 15vh;
+}
